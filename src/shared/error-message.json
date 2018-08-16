@@ -1,0 +1,14 @@
+{
+    "pt-br": {
+        "invalid_email": "Digite um e-mail válido",
+        "password_min_6_digits": "Senha deve conter no mínimo 6 dígitos",
+        "user_not_found": "Usuário ou senha não encontrados",
+        "email_in_use": "O e-mail digitado já está em uso por outra conta"
+    },
+    "en-us": {
+        "invalid_email": "E-mail is not valid",
+        "password_min_6_digits": "Password should be at least 6 characters",
+        "user_not_found": "User or password not found",
+        "email_in_use": "The email address is already in use by another account"
+    }
+}
